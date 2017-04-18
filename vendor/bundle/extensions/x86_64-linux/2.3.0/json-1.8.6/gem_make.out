@@ -1,0 +1,13 @@
+current directory: /home/eugene/rails_projects/first_app/vendor/bundle/gems/json-1.8.6/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20170413-7954-1axdg62.rb extconf.rb
+creating Makefile
+
+current directory: /home/eugene/rails_projects/first_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/eugene/rails_projects/first_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Цель «all» не требует выполнения команд.
+
+current directory: /home/eugene/rails_projects/first_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
